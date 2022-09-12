@@ -1,0 +1,75 @@
+h1{
+   margin-left: 20%;
+   font-size:40px;
+   font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+   color:yellow;
+   text-shadow: 6px 6px 5px #000000;
+}
+.filmes{
+    margin-left: 10%;
+    padding: 01%;
+    height:350px;
+    width: 300px;
+     box-shadow: 5px 5px 5px 5px rgb(0, 0, 0); 
+     border: solid #FFFF00 5px; 
+}
+h2{
+   font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+   color:yellow;
+   text-shadow: 4px 4px 3px #000000;
+   margin-left: 02%;
+}
+
+.tron1{
+   margin-left:42%;
+    padding: 50%;
+    border:3px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   height: 10px;
+   line-height: 10px;
+   color: #FFFF00;
+   font-family: Verdana;
+   width: 177px;
+   font-size: 26px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #241B33;
+   -webkit-box-shadow: 1px 1px 20px 0 #FFFF00;
+   -moz-box-shadow: 1px 1px 20px 0 #FFFF00;
+   box-shadow: 1px 1px 20px 0 #FFFF00;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #FFFF00 7px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.tron1:hover {
+   background: #000000;
+   border: solid #DD380D 5px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
+h3{
+   margin-left:35%;
+   font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+   color:#FFFF00;
+   text-shadow: 6px 6px 5px #000000;
+}
+
+ul{
+   font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+   color:#FFFF00;
+
+}
+p{
+   margin-left:42%;
+   font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+   color:#FFFF00;
+   text-shadow: 6px 6px 5px #000000; 
+}
